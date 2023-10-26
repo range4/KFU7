@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-namespace DZ
+namespace DZ;
 {
     internal class Program
     {
