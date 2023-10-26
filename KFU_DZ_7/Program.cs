@@ -45,18 +45,12 @@ namespace DZ;
 
             foreach (Exercise task in tasks)
             {
-
-
                 if (task.Executor.CanDoTask(task))
                 {
-
-
                     Console.WriteLine(task.Assigner.Name + " поставил задачу " + task.Name + " рабочему " + task.Executor.Name);
                 }
                 else
                 {
-
-
                     Console.WriteLine(task.Assigner.Name + " поставил задачу " + task.Name + " рабочему " + task.Executor.Name + ", но он не на того напал");
                 }
             }
