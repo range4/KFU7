@@ -1,0 +1,15 @@
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/bin/Debug/net7.0/Labwork
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/bin/Debug/net7.0/Labwork.deps.json
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/bin/Debug/net7.0/Labwork.runtimeconfig.json
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/bin/Debug/net7.0/Labwork.dll
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/bin/Debug/net7.0/Labwork.pdb
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.csproj.AssemblyReference.cache
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.AssemblyInfoInputs.cache
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.AssemblyInfo.cs
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.csproj.CoreCompileInputs.cache
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.dll
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/refint/Labwork.dll
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.pdb
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/Labwork.genruntimeconfig.cache
+/Users/kaneki44/Projects/KFU_DZ_7/Labwork/obj/Debug/net7.0/ref/Labwork.dll
